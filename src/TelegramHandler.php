@@ -41,7 +41,7 @@ class TelegramHandler extends AbstractProcessingHandler
         $token,
         $channel,
         $dateFormat = 'Y-m-d H:i:s',
-        $timeOut = 100,
+        $timeOut = 60,
         $curlOptions = []
     ) {
         $this->token   = $token;
