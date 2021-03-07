@@ -1,8 +1,8 @@
 {
     "name": "rahimi/monolog-telegram",
     "description": "A handler for Monolog that sends messages to Telegram Channels",
-        "keywords": ["monolog-telegram","log", "logging", "monolog", "telegram", "channels","bots"],
-        "homepage": "https://github.com/moeinrahimi/monolog-telegram",
+    "keywords": ["monolog-telegram", "log", "logging", "monolog", "telegram", "channels", "bots"],
+    "homepage": "https://github.com/moeinrahimi/monolog-telegram",
     "license": "MIT",
     "authors": [
         {
@@ -21,5 +21,4 @@
         "ext-curl": "*",
         "ext-json": "*"
     }
-
 }
